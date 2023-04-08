@@ -1,11 +1,12 @@
 
 Olá, eu sou a Angela Melina Silva, estudante de engenharia de software.
 
-
-
-
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YYD7nHk9ux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/techmoment_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angela-m-s-400124189/) 
+
+<div style="display: inline_block"><br>
+ <i class="devicon-javascript-plain colored"></i>
+
+</div> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=angelamsilva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>

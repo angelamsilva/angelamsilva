@@ -1,5 +1,5 @@
 
-## Olá, eu sou a Angela Melina Silva, estudante de engenharia de software.
+## Olá, eu sou a Angela Melina Silva, estudante de Desenvolvimento de Sistemas.
 
 
 

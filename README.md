@@ -1,5 +1,5 @@
 
-## Olá, eu sou a Angela Silva, estudante de Desenvolvimento de Sistemas.
+## Olá, eu sou a Angela, estudante de Desenvolvimento de Sistemas.
 
 
 
